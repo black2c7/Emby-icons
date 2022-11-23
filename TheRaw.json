@@ -40,7 +40,9 @@
     {"name":"GFW", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/GFW.png"},
     {"name":"Baiduyun", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Baiduyun.png"},
     {"name":"Ali", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Ali.png"},
+    {"name":"Jianguoyun", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Jianguoyun.png"},
     {"name":"Pikpak", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Pikpak.png"},
-    {"name":"Infuse7", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Infuse7.png"}
+    {"name":"Infuse7", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Infuse7.png"},
+    {"name":"Alist", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Alist.png"}
         ]
 }
