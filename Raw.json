@@ -2,6 +2,29 @@
 "description":"By 2z", 
 "icons":[
     {"name":"BDD", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/BDD.png"},
-    {"name":"1111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/1111.png"}
+    {"name":"1111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/1111.png"},
+    {"name":"Bolanggu", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Bolanggu.png"},
+    {"name":"Catfish", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Catfish.png"},
+    {"name":"CC", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/CC.png"},
+    {"name":"Heishan", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Heishan.png"},
+    {"name":"HXD", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/HXD.png"},
+    {"name":"Inf", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Inf.png"},
+    {"name":"Ing", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Ing.png"},
+    {"name":"JMS", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/JMS.png"},
+    {"name":"JMSIPTV", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/JMSIPTV.png"},
+    {"name":"Karong", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Karong.png"},
+    {"name":"Miskaf", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Miskaf.png"},
+    {"name":"Misty", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Misty.png"},
+    {"name":"MJJ", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/MJJ.png"},
+    {"name":"More", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/More.png"},
+    {"name":"MX", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/MX.png"},
+    {"name":"Orange", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Orange.png"},
+    {"name":"Peach", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Peach.png"},
+    {"name":"Plus", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Plus.png"},
+    {"name":"Polo", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Polo.png"},
+    {"name":"PY", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/PY.png"},
+    {"name":"XM", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/XM.png"},
+    {"name":"ZDZ", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/ZDZ.png"},
+    {"name":"Zhongxia", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Zhongxia"}
         ]
 }
