@@ -1,6 +1,8 @@
 {"name":"Emby Icons", 
 "description":"By 2z", 
 "icons":[
+    {"name":"Emby3", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby3.png"},
+    {"name":"Emby2", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby2.png"},
     {"name":"BDD", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/BDD.png"},
     {"name":"BDD1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/BDD1.png"},
     {"name":"1111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/1111.png"},
