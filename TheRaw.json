@@ -189,6 +189,8 @@
     {"name":"Ubuntu", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Ubuntu.png"},
     {"name":"Debian", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Debian.png"},
     {"name":"Centos", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Centos.png"},
-    {"name":"FreeBSD1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/FreeBSD1.png"}
+    {"name":"FreeBSD1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/FreeBSD1.png"},
+    {"name":"Coreos1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Coreos1.png"},
+    {"name":"Windows1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Windows1.png"}
         ]
 }
