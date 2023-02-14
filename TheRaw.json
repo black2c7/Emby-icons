@@ -1,9 +1,9 @@
 {"name":"Emby Icons", 
 "description":"By 2z", 
 "icons":[
-    {"name":"Emby5", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby5.png"},
-    {"name":"Emby2", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby2.png"},
-    {"name":"BDD2", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/BDD2.png"},
+    {"name":"Emby111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby111.png"},
+    {"name":"Emby22", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Emby22.png"},
+    {"name":"BDD22", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/BDD22.png"},
     {"name":"BDD3", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/BDD3.png"},
 
     {"name":"CC", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/CC.png"},
@@ -187,15 +187,15 @@
     {"name":"DSM", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/DSM.png"},
     {"name":"Qnap223", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Qnap223.png"},
     {"name":"Dell2", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Dell2.png"},
-    {"name":"Twm2", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Twm2.png"},
+    {"name":"Twm111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Twm111.png"},
     {"name":"Jkj2", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Jkj2.png"},
-    {"name":"Hkws1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Hkws1.png"},
+    {"name":"Hkws1111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Hkws1111.png"},
 
     {"name":"Ubuntu", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Ubuntu.png"},
     {"name":"Debian", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Debian.png"},
     {"name":"Centos", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Centos.png"},
-    {"name":"FreeBSD1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/FreeBSD1.png"},
+    {"name":"FreeBSD111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/FreeBSD111.png"},
     {"name":"Coreos1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Coreos1.png"},
-    {"name":"Windows1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Windows1.png"}
+    {"name":"Windows111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Windows111.png"}
         ]
 }
