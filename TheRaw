@@ -200,7 +200,6 @@
     {"name":"Centos", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Centos.png"},
     {"name":"FreeBSD111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/FreeBSD111.png"},
     {"name":"Coreos1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Coreos1.png"},
-    {"name":"Windows111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Windows111.png"},
-    {"name":"Clash5", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Clash5.png"}
+    {"name":"Windows111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Windows111.png"}
         ]
 }
